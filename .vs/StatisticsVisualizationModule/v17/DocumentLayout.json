@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\models\\timeevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\models\\timeevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\models\\labels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\models\\labels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\models\\taginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\models\\taginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\models\\stamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\models\\stamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|d:\\\u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\statisticsvisualizationmodule\\statisticsvisualizationmodule\\models\\videotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925879FE-27E1-42EA-B1C2-F233BC7888D0}|StatisticsVisualizationModule\\StatisticsVisualizationModule.csproj|solutionrelative:statisticsvisualizationmodule\\models\\videotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\Models\\Group.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Group.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:46:10.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Labels.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Labels.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\Models\\Labels.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Labels.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\Models\\Labels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:45:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\MainWindow.xaml",
+              "RelativeToolTip": "StatisticsVisualizationModule\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T14:09:34.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:09:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagInfo.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\TagInfo.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\Models\\TagInfo.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\TagInfo.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\Models\\TagInfo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:09:37.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stamps.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Stamps.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\Models\\Stamps.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Stamps.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\Models\\Stamps.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:12:44.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeEvents.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\TimeEvents.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\Models\\TimeEvents.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\TimeEvents.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\Models\\TimeEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:42:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Data.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\Models\\Data.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\Data.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\Models\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:41:03.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VideoTrack.cs",
+              "DocumentMoniker": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\VideoTrack.cs",
+              "RelativeDocumentMoniker": "StatisticsVisualizationModule\\Models\\VideoTrack.cs",
+              "ToolTip": "D:\\\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\StatisticsVisualizationModule\\StatisticsVisualizationModule\\Models\\VideoTrack.cs",
+              "RelativeToolTip": "StatisticsVisualizationModule\\Models\\VideoTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:10:34.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
