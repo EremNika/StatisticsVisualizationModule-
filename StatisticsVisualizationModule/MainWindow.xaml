@@ -3,13 +3,50 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:StatisticsVisualizationModule"
+        xmlns:local="clr-namespace:StatisticsVisualizationModule" xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="671" Width="1141">
+
     <Grid>
-        <Button Content="Выбрать json файл" HorizontalAlignment="Left" Margin="24,125,0,0" VerticalAlignment="Top" Click="Button_Click"/>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="24,72,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="24,170,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="332" Height="240"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="columnLeft"  Width="300">
+            </ColumnDefinition>
+            <ColumnDefinition x:Name="columnRight" >
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button Content="Выбрать json файл" HorizontalAlignment="Left" Margin="14,108,0,0" VerticalAlignment="Top" Click="Button_Click" Grid.Column="0" Width="161"  Style="{StaticResource YellowRoundedButton}" Cursor="Hand" />
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="14,170,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="266" Height="450" Grid.Column="0" Style="{StaticResource TextBoxBaseStyle}" />
+
+        <TextBox x:Name="textBoxStat" HorizontalAlignment="Left" Margin="260,416,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="545" Height="195" ScrollViewer.VerticalScrollBarVisibility="Visible" Grid.Column="1" Style="{StaticResource TextBoxBaseStyle}"/>
+
+        <StackPanel Grid.Column="1" HorizontalAlignment="Left" Margin="10,380,0,40" Width="240">
+            <Button Content="Количество тегов каждого вида" HorizontalAlignment="Left" VerticalAlignment="Top"  Click="Button_Click_1" Grid.Column="1" Style="{StaticResource YellowRoundedButton}"/>
+            <Button Content="Количество событий по группам тегов" HorizontalAlignment="Left"  VerticalAlignment="Top"   Click="Button_Click_2" Grid.Column="1" Style="{StaticResource YellowRoundedButton}"/>
+            <Button Content="События периодов" HorizontalAlignment="Left" VerticalAlignment="Top"   Click="Button_Click_3" Grid.Column="1" Style="{StaticResource YellowRoundedButton}"/>
+            <Button Content="Активность игроков" HorizontalAlignment="Left" VerticalAlignment="Top"  Click="Button_Click_4" Grid.Column="1" Style="{StaticResource YellowRoundedButton}"/>
+        </StackPanel>
+        
+        <lvc:CartesianChart Series="{Binding chartData.Series}"
+                                Background="#C0C0C0" Margin="10,12,20,281" Grid.Column="1" >
+
+            <lvc:CartesianChart.AxisX>
+                <lvc:Axis Labels="{Binding chartData.Labels}" Cursor="">
+                    <lvc:Axis.Separator>
+                        <lvc:Separator Step="2" Stroke="{x:Null}"/>
+                    </lvc:Axis.Separator>
+                </lvc:Axis>
+            </lvc:CartesianChart.AxisX>
+            <lvc:CartesianChart.AxisY>
+                <lvc:Axis Title="Статистика" LabelFormatter="{Binding YAxisFormatter}" >
+                    <lvc:Axis.Separator>
+                        <lvc:Separator  />
+                    </lvc:Axis.Separator>
+                </lvc:Axis>
+            </lvc:CartesianChart.AxisY>
+        </lvc:CartesianChart>
+        <Label Grid.Column="1" Content="Статистика" FontWeight="Bold" FontSize="20" HorizontalAlignment="Left" Margin="704,374,0,0" VerticalAlignment="Top" />
+
 
     </Grid>
 </Window>
